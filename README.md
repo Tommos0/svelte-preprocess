@@ -55,9 +55,7 @@ export default {
 
 ### Template tag
 
-Add _vue-like_ support for defining your markup between a `<template>` tag. The tagname can be customized to something like `markup` for example. See [#options](#options).
-
-_**Note:** only for auto preprocessing_
+Add _vue-like_ support for defining your markup between a `<template>` tag. The tagname can be customized to something like `markup` for example.
 
 ```html
 <template>
